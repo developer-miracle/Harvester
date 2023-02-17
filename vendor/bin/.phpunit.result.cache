@@ -1,0 +1,1 @@
+{"version":1,"defects":{"mainTest::testAddTree":7,"Miracle\\mainTest::testAddTree":8,"mainTest::testHarvest":7,"mainTest::testGetCountByType":5,"mainTest::testGetCountFruitByType":7},"times":{"mainTest::testAddTree":0.004,"mainTest::testHarvest":0.001,"mainTest::testGetCountByType":0,"mainTest::testGetCountFruitByType":0.001,"mainTest::testGetWeightFruitByType":0}}
